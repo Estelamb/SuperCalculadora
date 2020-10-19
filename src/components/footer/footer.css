@@ -1,0 +1,14 @@
+footer{
+    background-color: #CD5C5C;
+    padding: 1em;
+    min-height: 8vh;
+    text-align: center;
+    color: whitesmoke;
+    position:absolute;
+    bottom:0;
+    width:97%;
+  }
+  
+  footer p{
+    text-indent: 1.5em;
+  }
